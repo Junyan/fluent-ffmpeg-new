@@ -1,5 +1,7 @@
 # Fluent ffmpeg-API for node.js
 
+> forked from [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) to fix ffmpeg 7.0 compatibility issue and add typescript definition
+
 [![Coverage Status](https://coveralls.io/repos/github/fluent-ffmpeg/node-fluent-ffmpeg/badge.svg?branch=master)](https://coveralls.io/github/fluent-ffmpeg/node-fluent-ffmpeg?branch=master)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffluent-ffmpeg%2Fnode-fluent-ffmpeg.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffluent-ffmpeg%2Fnode-fluent-ffmpeg?ref=badge_shield)
 
